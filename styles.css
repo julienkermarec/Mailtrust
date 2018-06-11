@@ -1,0 +1,196 @@
+.btn-google {
+  background : #e02449;
+  color : #FFF;
+  float :left;
+}
+
+.header_icon {
+  float :left;
+}
+.footer_logo {
+      float: left;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.header_title {
+      color: #3aaa96;
+    font-size: 1.6em;
+    font-weight: bold;
+    margin: 6px 0px 0px 17px;
+    float: left;
+}
+
+.list_item input,
+.list_item .notation,
+.list_item h4,
+.list_item .labels {
+  float :left;
+  margin : 10px 10px;
+}
+.counter {
+
+}
+.box .frequence {
+      font-style: italic;
+    font-size: 12px;
+    top: -10px;
+    position: relative;
+    height: auto;
+}
+.box i {
+
+      margin-right: 10px;
+}
+
+.box {
+     height: 43px;
+  border : 1px solid lightgray;
+  float :left;
+  width : 100px;
+  padding : 3px 10px;
+}
+.list_item .notation {
+  position : relative;
+}
+.list_item .notation .badge {
+      float: right;
+    font-size: 1.2em;
+    position: relative;
+    right: initial;
+    margin-right: 15px;
+    margin-top: -8px;
+}
+.list_item button {
+  float :right;
+    box-shadow: 0px 0Px 3px #b3b3b3;
+    color: #000;
+    margin-left : 15px;
+}
+h4 {
+
+      font-size: 1.1rem;
+}
+.list-group-item .badge i{
+  margin-right : 10px;
+}
+.list-group-item .badge {
+    float: right;
+    font-size : 1.2em;
+}
+#labels {
+  margin-top : 15px;
+}
+
+#drowdown_all .btn {
+    position: absolute;
+    top: -39px;
+    right: 25px;
+}
+#drowdown .btn {
+  margin-top : -20px;
+  position : relative;
+  background-color: #3db39e;
+  border-color: #3aaa96;
+  float :right;
+}
+
+.badge {
+    display: inline-block;
+    min-width: 10px;
+    padding: 3px 7px;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    background-color: #777;
+    border-radius: 10px;
+}
+.label {
+
+  padding: 3px 7px;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+
+.label-default {
+  background-color: #777;
+}
+.label-primary {
+  background-color: #377BB5;
+}
+.label-info {
+  background-color: #5FB760;
+}
+.label-success {
+  background-color: #5FC0DD;
+}
+.label-warning {
+  background-color: #EFAC56;
+}
+.label-danger {
+  background-color: #F7F7F9;
+}
+
+.btn-primary:hover,
+.btn-primary {
+  background-color : #3aaa96;
+  border-color : #3aaa96;
+}
+
+label.notation {
+  margin : 10px 0px;
+  font-size : 18px;
+}
+
+.card {
+
+      width: calc(25% - 15px);
+    display: inline-block;
+    float: left;
+    margin-right: 15px;
+
+}
+    .card-img-top {
+      height : 250px;
+      object-fit : contain;
+    }
+
+footer {
+
+      float: left;
+    width: 100%;
+}
+.badge-a,
+.badge-b,
+.badge-c,
+.badge-d,
+.badge-e {
+
+        position: absolute;
+      right: 10px;
+      padding: 10px;
+      font-size: 21px;
+}
+.badge-a {
+  background-color : #29FD37;
+}
+.badge-b {
+  background-color : #C8FD34;
+}
+.badge-c {
+  background-color : #FD7E23;
+}
+.badge-d {
+  background-color : #FC4322;
+}
+.badge-e {
+  background-color : #FC0D1B;
+}
